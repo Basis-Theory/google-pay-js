@@ -1,0 +1,11 @@
+{
+  "signature": "MEYCIQCjqYS6T/29qQ27ZS5laoC9MeNodPauX1uNtUa9dmiL6gIhAOfzCbnLhJnzDsHZNBfLpWPg/XFyYq/QKqubNRbdyiOM",
+  "intermediateSigningKey": {
+    "signedKey": "{\"keyValue\":\"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEusLZZqP8Z1hvi9IU9rm7NcNLeokbvZ6Z0vXCWNoypycgpKTkrSXNMOWqAQS6hT37I3+qfLX5xRSo4q2kT63uw\\u003d\\u003d\",\"keyExpiration\":\"1709020759412\"}",
+    "signatures": [
+      "MEUCICaWaE8BUlQueV+ZrJ/OMJY7TwnaXeuTFx9fBzDHb1EXAiEAoeOYc4VbDJXSJQjTUiWhxua8zK855TKrCdkw0S3PNC0="
+    ]
+  },
+  "protocolVersion": "ECv2",
+  "signedMessage": "{\"encryptedMessage\":\"4Ipj9cRTdZju7aPB8aZx1TXv7jn9aH1uIXeB40+zhn/P532RTRyEdSG3fPdG+gv/sllBOhEfCk9o9if+QkLkyH2J4NpbeGEKjNFNZz7UGDlkzwJ1rG6KJQNIqchbfD6cnqhjNSmEgLysg0y5lxAkTfdly/I5h9qLAsOX5BFlNMIU5ZsX1Y0Xl/qMbNJO58h19lYNDC7V866YVc/YQSrpV5zl6lQDIkzyVdFzA/yvIs8RGaUkwEyPb01hEnO0mkssV8UIJyd7jBTDCTyXBubffHT84DQR1Vm4L8nK9IXJsQau8oHyF0as9dld9bOP5f9RJadImCcqu5JNmJ/l5tEHQP/FSereNlWSQTknzP+ZZP92tjuytbuKJV8kUEP+W5V2uLoUYjQdTA75WcaA8HbdavttxCZuYnIajroc9kVBPAaIpqH3tb1wOBnOlVQ\\u003d\",\"ephemeralPublicKey\":\"BFkRPgpI/NW2bYYZS+1M0o8FxEeR6B2EGI+3Ufvh8DFpGoFhfT3Zqo+hTp3129emDQ6a0lWEEuQpxqiB9mV/9dY\\u003d\",\"tag\":\"AZKdgPhVu7hz1VTH4Y38+TJ58wkO1dz7R3rKQMQa3+A\\u003d\"}"
+}
