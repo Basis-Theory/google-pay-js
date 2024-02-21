@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`decrypt should decrypt using new key 1`] = `
+{
+  "messageExpiration": "1708953259025",
+  "messageId": "AH2Ejtfux7LQy8R3HPjslN6NqKgbSp95fd4emwOs6qeGT78aJamj9WUvhMBRCRaLjuR_7Xqr7e1XTHfg0j5zePIrqG8RLrJu09AbEHg0GfLfJrImibYXWMvxTY0vTp5i5dTIoSSsxdG8",
+  "paymentMethod": "CARD",
+  "paymentMethodDetails": {
+    "authMethod": "PAN_ONLY",
+    "expirationMonth": 12,
+    "expirationYear": 2026,
+    "pan": "4111111111111111",
+  },
+}
+`;
+
+exports[`decrypt should support key rotation 1`] = `
+{
+  "messageExpiration": "1678476155759",
+  "messageId": "AH2EjtcVAtpb_Nm4zwT6uJXPx8IHgKuxQEtVn7b8GJyxd_43iMIAarjXue1vjcaiJKMxIfzkp5JnD6gfdIB_q1rnPjR9ahV06-JvgGXya38xvgNQb4NSytKYoE3NxaPnMLt4vwI5iyMB",
+  "paymentMethod": "CARD",
+  "paymentMethodDetails": {
+    "authMethod": "PAN_ONLY",
+    "expirationMonth": 12,
+    "expirationYear": 2028,
+    "pan": "5555555555554444",
+  },
+}
+`;
+
+exports[`decrypt should support key rotation 2`] = `
+{
+  "messageExpiration": "1708953259025",
+  "messageId": "AH2Ejtfux7LQy8R3HPjslN6NqKgbSp95fd4emwOs6qeGT78aJamj9WUvhMBRCRaLjuR_7Xqr7e1XTHfg0j5zePIrqG8RLrJu09AbEHg0GfLfJrImibYXWMvxTY0vTp5i5dTIoSSsxdG8",
+  "paymentMethod": "CARD",
+  "paymentMethodDetails": {
+    "authMethod": "PAN_ONLY",
+    "expirationMonth": 12,
+    "expirationYear": 2026,
+    "pan": "4111111111111111",
+  },
+}
+`;
